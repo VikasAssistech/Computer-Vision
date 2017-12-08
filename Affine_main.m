@@ -1,4 +1,4 @@
-% Moving Object 
+% LKT affine 
 clear all;
  image2=double(imread('temp1.jpg')); % read 2nd frame
 video=VideoReader('vtest.avi');
