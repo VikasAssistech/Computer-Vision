@@ -1,5 +1,5 @@
-# Computer Vision : lucas kanade implimentation on matlab
+# Computer Vision : Lucas Kanade Implimentation on matlab
  
-1. LKT Affine 
-2. LKT Translation 
+1. LKT Translation 
+2. LKT Affine 
 3. LKT Affine with Gauss Newton Optimization
